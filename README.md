@@ -1,4 +1,4 @@
-markdown# LangGraph Exercise - Graph IV: Conditional Routing
+# LangGraph Exercise - Graph IV: Conditional Routing
 
 A LangGraph implementation demonstrating conditional edges with dual mathematical operation routing.
 
