@@ -72,6 +72,3 @@ Second operation result (finalNumber2): 9   # 7 + 2
 | `finalNumber` | int | Result of first operation |
 | `finalNumber2` | int | Result of second operation |
 
-## Course
-
-From: **LangGraph Complete Course for Beginners - Complex AI Agents with Python**
